@@ -18,6 +18,10 @@ The main working file is [`state-tracker.csv`](state-tracker.csv). It is filtere
 
 The plain-language state-by-state FAQ is in [`FAQ.md`](FAQ.md). It summarizes what each tracked state's law or proposal does and does not do.
 
+## Federal Definition
+
+The federal terminology reference is in [`federal-ghost-gun-definition.md`](federal-ghost-gun-definition.md). It explains the relationship between "ghost gun," "privately made firearm," "firearm," and "frame or receiver."
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
