@@ -30,6 +30,10 @@ The advocacy and funding research note is in [`advocacy-and-funding.md`](advocac
 
 The right-to-repair cross-reference is in [`right-to-repair-correlation.md`](right-to-repair-correlation.md). It compares printer-blocking legislation to repair-policy issues like software locks, firmware control, anti-circumvention, parts pairing, and owner modification.
 
+## Physna Feasibility
+
+The Physna feasibility note is in [`physna-feasibility.md`](physna-feasibility.md). It evaluates public claims about geometric-search firearm blocking technology and explains why shape-matching is not the same as a reliable, universal 3D-printer safety mandate.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
