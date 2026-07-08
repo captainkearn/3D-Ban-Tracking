@@ -14,6 +14,10 @@ Last filtered sweep: 2026-07-08.
 
 The main working file is [`state-tracker.csv`](state-tracker.csv). It is filtered to states that have passed, or are actively trying to pass, direct 3D-printing firearm bans/restrictions.
 
+## FAQ
+
+The plain-language state-by-state FAQ is in [`FAQ.md`](FAQ.md). It summarizes what each tracked state's law or proposal does and does not do.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
