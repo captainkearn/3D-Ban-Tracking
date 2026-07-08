@@ -22,6 +22,10 @@ The plain-language state-by-state FAQ is in [`FAQ.md`](FAQ.md). It summarizes wh
 
 The federal terminology reference is in [`federal-ghost-gun-definition.md`](federal-ghost-gun-definition.md). It explains the relationship between "ghost gun," "privately made firearm," "firearm," and "frame or receiver."
 
+## Advocacy And Funding
+
+The advocacy and funding research note is in [`advocacy-and-funding.md`](advocacy-and-funding.md). It tracks public evidence for who is sponsoring, supporting, organizing, or funding the policy push behind these bills.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
