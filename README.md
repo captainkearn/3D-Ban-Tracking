@@ -1,18 +1,18 @@
 # 3D Ban Tracking
 
-Public tracker for state laws and proposed laws that affect 3D printing, with a focus on:
+Public tracker for state laws and proposed laws that ban or directly restrict 3D printing in the firearms context, with a focus on:
 
 - 3D-printed firearms
-- ghost guns and privately made firearms
+- unlicensed 3D printing of firearms or firearm components
 - digital firearm manufacturing files
 - CNC / additive manufacturing restrictions
 - printer-level blocking or blueprint-detection proposals
 
-Last initial sweep: 2026-07-08.
+Last filtered sweep: 2026-07-08.
 
 ## Tracker
 
-The main working file is [`state-tracker.csv`](state-tracker.csv). It separates current law from proposed or pending legislation so enacted restrictions do not get mixed with bills that are still in committee.
+The main working file is [`state-tracker.csv`](state-tracker.csv). It is filtered to states that have passed, or are actively trying to pass, direct 3D-printing firearm bans/restrictions.
 
 ## Source Notes
 
@@ -22,9 +22,7 @@ Initial sources included Everytown, Giffords, state legislature bill pages, Legi
 
 - `none-found`
 - `current-law`
-- `proposed`
 - `pending`
-- `passed`
-- `failed`
+- `passed-active`
+- `active-proposal`
 - `needs-verification`
-
