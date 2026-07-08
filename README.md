@@ -26,6 +26,10 @@ The federal terminology reference is in [`federal-ghost-gun-definition.md`](fede
 
 The advocacy and funding research note is in [`advocacy-and-funding.md`](advocacy-and-funding.md). It tracks public evidence for who is sponsoring, supporting, organizing, or funding the policy push behind these bills.
 
+## Right To Repair Correlation
+
+The right-to-repair cross-reference is in [`right-to-repair-correlation.md`](right-to-repair-correlation.md). It compares printer-blocking legislation to repair-policy issues like software locks, firmware control, anti-circumvention, parts pairing, and owner modification.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
