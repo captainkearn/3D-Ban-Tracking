@@ -38,6 +38,10 @@ The Physna feasibility note is in [`physna-feasibility.md`](physna-feasibility.m
 
 The cost estimate is in [`cost-of-implementation.md`](cost-of-implementation.md). It breaks down likely state, vendor, and consumer costs for printer-blocking mandates, including likely purchase-price increases and possible monthly compliance subscriptions.
 
+## Physna Financial Ties
+
+The Physna financial-ties research note is in [`physna-financial-ties.md`](physna-financial-ties.md). It checks whether tracked lawmakers and supporters have public financial ties to Physna and distinguishes direct financial evidence from regulatory-capture concerns.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
