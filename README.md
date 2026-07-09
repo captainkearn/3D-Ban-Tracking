@@ -34,6 +34,10 @@ The right-to-repair cross-reference is in [`right-to-repair-correlation.md`](rig
 
 The Physna feasibility note is in [`physna-feasibility.md`](physna-feasibility.md). It evaluates public claims about geometric-search firearm blocking technology and explains why shape-matching is not the same as a reliable, universal 3D-printer safety mandate.
 
+## Cost Of Implementation
+
+The cost estimate is in [`cost-of-implementation.md`](cost-of-implementation.md). It breaks down likely state, vendor, and consumer costs for printer-blocking mandates, including likely purchase-price increases and possible monthly compliance subscriptions.
+
 ## Source Notes
 
 Initial sources included Everytown, Giffords, state legislature bill pages, LegiScan bill pages, and official state press releases where available. This repo should be treated as a tracking project, not legal advice.
