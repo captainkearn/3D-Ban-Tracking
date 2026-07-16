@@ -8,11 +8,13 @@ Public tracker for state laws and proposed laws that ban or directly restrict 3D
 - CNC / additive manufacturing restrictions
 - printer-level blocking or blueprint-detection proposals
 
-Last filtered sweep: 2026-07-08.
+Last filtered sweep: 2026-07-16.
 
 ## Tracker
 
 The main working file is [`state-tracker.csv`](state-tracker.csv). It is filtered to states that have passed, or are actively trying to pass, direct 3D-printing firearm bans/restrictions.
+
+The latest dated update is [`updates/2026-07-16-sweep.md`](updates/2026-07-16-sweep.md).
 
 ## FAQ
 

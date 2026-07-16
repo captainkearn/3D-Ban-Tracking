@@ -11,6 +11,7 @@ Status: passed-active
 ## Active Proposal
 
 - AB 2047, the California Firearm Printing Prevention Act, would create printer-level firearm blocking technology requirements. The July 2, 2026 amended version would require DOJ performance guidance, manufacturer attestations, a public compliant-printer list, and would prohibit sale or transfer of nonlisted/noncompliant printers beginning December 1, 2029, subject to exceptions.
+- As of the July 16, 2026 sweep, the official status page lists AB 2047 in Senate Appropriations with a committee hearing date of August 3, 2026.
 
 ## Sources
 
@@ -18,4 +19,3 @@ Status: passed-active
 - California Penal Code Section 29010: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=29010.
 - AB 2047 bill text: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2047
 - AB 2047 status: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047
-

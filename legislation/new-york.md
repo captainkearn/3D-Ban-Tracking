@@ -12,6 +12,7 @@ Status: passed-active
 
 - S9005C was the public protection and general government budget bill vehicle; its summary identifies crimes related to using 3D printers for manufacturing ghost guns and firearm components.
 - A2228/S3562 would require criminal-history background checks for purchases of 3D printers capable of creating firearms.
+- As of the July 16, 2026 sweep, A2228 remains listed as in Assembly committee. The enacted budget provisions remain the main current-law item to watch for working-group membership, standards, and implementation timeline.
 - S227A/A1777-style legislation would regulate 3D-printed firearms and digital instructions.
 
 ## Sources
@@ -21,4 +22,3 @@ Status: passed-active
 - A2228 bill page: https://www.nysenate.gov/legislation/bills/2025/A2228
 - S227A bill page: https://www.nysenate.gov/legislation/bills/2025/S227/amendment/A
 - Governor proposal release: https://www.governor.ny.gov/news/keeping-new-yorkers-safe-governor-hochul-announces-nation-leading-proposals-crack-down-3d
-

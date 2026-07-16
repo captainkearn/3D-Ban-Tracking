@@ -9,6 +9,7 @@ Status: active-proposal
 ## Active Proposal
 
 - SB 331 and companion SB 332 passed the Michigan Senate in 2025 and were referred to the House Committee on Government Operations.
+- As of the July 16, 2026 sweep, SB 331 still appears as engrossed and pending in House Government Operations, with no new official movement found since June 25, 2025.
 - The proposal would add serialization requirements and prohibit using a 3D printer or CNC milling machine for unlicensed firearm manufacturing.
 
 ## Sources
@@ -16,4 +17,3 @@ Status: active-proposal
 - SB 331 LegiScan page: https://legiscan.com/MI/bill/SB0331/2025
 - MichiganVotes summary for SB 331: https://www.michiganvotes.org/legislation/2025/senate/bill-331
 - Michigan Senate analysis PDF source URL: https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0331-G.pdf
-
