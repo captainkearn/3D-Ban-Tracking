@@ -2,7 +2,7 @@
 
 Plain-language FAQ for the states currently tracked in this repo. This is a tracking aid, not legal advice. Always read the linked legislation notes and primary sources before relying on any item.
 
-Last updated: 2026-07-08.
+Last updated: 2026-07-16.
 
 ## California
 
@@ -84,6 +84,26 @@ The tracked law does not ban all 3D printing. It is tied to producing covered un
 
 Whether SB 285 or a successor ghost-gun bill becomes active and whether it adds direct 3D-printing or digital-file restrictions.
 
+## Maine
+
+Source note: [legislation/maine.md](legislation/maine.md)
+
+**What does Maine law do?**
+
+LD 1126 / Public Law 537 requires covered firearms, frames, receivers, and unfinished frames or receivers to have serial numbers, creates a process for federal firearms licensees to imprint serial numbers, and prohibits undetectable firearms.
+
+**How does it involve 3D printing?**
+
+The chaptered law expressly defines "three-dimensional printer" and defines unfinished frames or receivers to include printing, extrusion, machined bodies, and similar articles that may readily become frames or receivers.
+
+**What does it not do?**
+
+It does not require printer-level blocking technology, and it does not appear to ban ordinary ownership of general-purpose 3D printers.
+
+**What should be watched next?**
+
+Implementation before the January 1, 2027 violation date, FFL serialization processes, and any follow-on bill aimed at digital files or printer-level controls.
+
 ## Massachusetts
 
 Source note: [legislation/massachusetts.md](legislation/massachusetts.md)
@@ -164,6 +184,26 @@ The tracked law does not ban all 3D printers or all CAD files. It is focused on 
 
 Implementation of the digital-instructions crime, court challenges, and any follow-on proposal aimed at printer-level blocking technology.
 
+## North Carolina
+
+Source note: [legislation/north-carolina.md](legislation/north-carolina.md)
+
+**What would the active proposal do?**
+
+HB 545 / S 409 would ban ghost guns and undetectable firearms. The official North Carolina summary says it would make it a Class I felony to manufacture, sell, give away, transfer, use, or possess a ghost gun or undetectable firearm, with exceptions for licensed firearm manufacturers.
+
+**How does it involve 3D printing?**
+
+The Legislative Reporting Service summary says the proposal defines an undetectable firearm to include a firearm manufactured through a 3D printing process.
+
+**What does it not do?**
+
+It is not a printer-sale blocking-technology bill. This tracker does not treat it as current law unless enacted.
+
+**What should be watched next?**
+
+House Rules movement, companion S 409 movement, amendments, and whether the text is broadened to digital files or printer-level controls.
+
 ## New York
 
 Source note: [legislation/new-york.md](legislation/new-york.md)
@@ -208,6 +248,26 @@ It does not ban all 3D printers or all printed objects. The tracked restriction 
 
 Any statutory amendments that change the definition of 3D printing process, ghost gun, undetectable firearm, or the Type 07 carve-out.
 
+## Virginia
+
+Source note: [legislation/virginia.md](legislation/virginia.md)
+
+**What does Virginia law do?**
+
+HB 40 was enacted in 2026 and restricts unfinished frames or receivers and unserialized firearms. Giffords summarizes the law as restricting importation, purchase, sale, transfer, manufacture, assembly, and later possession of unserialized firearms, frames, and receivers.
+
+**How does it involve 3D printing?**
+
+The introduced bill text defines manufacture or assembly to include additive processes and defines unfinished frames or receivers to include printing, extrusion, machined bodies, and similar items.
+
+**What does it not do?**
+
+It does not require printer-level blocking technology and does not appear to ban ordinary 3D printers as tools.
+
+**What should be watched next?**
+
+Implementation dates in 2027, enforcement guidance, litigation, and any follow-on proposal aimed specifically at 3D-printer sales or digital files.
+
 ## Washington
 
 Source note: [legislation/washington.md](legislation/washington.md)
@@ -227,4 +287,3 @@ HB 2321 is not treated here as current law. HB 2320 is focused on firearms, fire
 **What should be watched next?**
 
 HB 2321 committee movement, technical definitions of blocking technology, and enforcement guidance under HB 2320.
-

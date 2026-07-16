@@ -14,7 +14,7 @@ Last filtered sweep: 2026-07-16.
 
 The main working file is [`state-tracker.csv`](state-tracker.csv). It is filtered to states that have passed, or are actively trying to pass, direct 3D-printing firearm bans/restrictions.
 
-The latest dated update is [`updates/2026-07-16-sweep.md`](updates/2026-07-16-sweep.md).
+The latest dated updates are [`updates/2026-07-16-sweep.md`](updates/2026-07-16-sweep.md) and [`updates/2026-07-16-new-state-sweep.md`](updates/2026-07-16-new-state-sweep.md).
 
 ## FAQ
 
