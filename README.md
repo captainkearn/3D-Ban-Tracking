@@ -40,6 +40,10 @@ The Physna feasibility note is in [`physna-feasibility.md`](physna-feasibility.m
 
 The cost estimate is in [`cost-of-implementation.md`](cost-of-implementation.md). It breaks down likely state, vendor, and consumer costs for printer-blocking mandates, including likely purchase-price increases and possible monthly compliance subscriptions.
 
+## Articles And Videos
+
+The linked media index is in [`articles-and-videos.md`](articles-and-videos.md). It collects articles, reports, hearings, videos, and commentary related to 3D-printed firearm legislation, printer-blocking mandates, Physna, and right-to-repair concerns.
+
 ## Physna Financial Ties
 
 The Physna financial-ties research note is in [`physna-financial-ties.md`](physna-financial-ties.md). It checks whether tracked lawmakers and supporters have public financial ties to Physna and distinguishes direct financial evidence from regulatory-capture concerns.
